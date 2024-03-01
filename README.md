@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- 로고 사이트 : https://simpleicons.org/ -->
+
 <!--
 **JayJazy/JayJazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=flat&logo=Android&logoColor=34A853"/></a>
 <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=flat&logo=Kotlin&logoColor=7F52FF"/></a>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=GitHub&logoColor=181717"/></a>
 <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat&logo=GitHub&logoColor=181717"/></a>
